@@ -1,2 +1,4 @@
 git config --global user.name "ajmal"
 git config --global user.email "ajmalajukp47@gmail.com"
+git list : shows list all history
+git branch : list all branches
