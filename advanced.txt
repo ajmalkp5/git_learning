@@ -2,3 +2,9 @@ git config --global user.name "ajmal"
 git config --global user.email "ajmalajukp47@gmail.com"
 git list : shows list all history
 git branch : list all branches
+git remote add name remote path
+git remote -v
+git stash
+git stash pop
+git rebase
+git merge
